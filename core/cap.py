@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-import time
 from entities.mouse import Mouse
 from math import sqrt
 from win32api import GetSystemMetrics;
